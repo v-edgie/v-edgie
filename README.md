@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @v-edgie
 - 👀 I’m interested in useful apps with a strong focus on privacy
-- 🌱 I’m currently learning kotlin and Android Studio
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to fly under the radar
+- 💞️ I’m looking to collaborate on useful apps with a strong focus on privacy
 - 📫 How to reach me ...
 
 <!---
